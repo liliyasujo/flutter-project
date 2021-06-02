@@ -1,6 +1,6 @@
 # flutter_project
 
-A new Flutter project.
+7 Day Flutter Boot Camp Project
 
 ## Getting Started
 
