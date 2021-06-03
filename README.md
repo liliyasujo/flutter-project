@@ -1,6 +1,6 @@
 # flutter_project
 
-7 Day Flutter Boot Camp Project
+7 Day Flutter Boot Camp 2021 Project 
 
 ## Getting Started
 
