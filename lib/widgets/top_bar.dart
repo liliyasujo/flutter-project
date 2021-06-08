@@ -15,7 +15,7 @@ class TopBar extends StatelessWidget {
         children: [
           CircleAvatar(
             radius: 40,
-            backgroundImage: NetworkImage('https://www.desicomments.com/dc3/19/439319/439319.jpg'),
+            backgroundImage: NetworkImage('https://images.unsplash.com/photo-1487035242901-d419a42d17af?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=968&q=80'),
           ),
           const SizedBox(width: 10),
         Column(
