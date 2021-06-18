@@ -38,7 +38,7 @@ class _HomePageScreenState extends State<HomePageScreen> {
 
   @override
   Widget build(BuildContext context) {
-    _fetchPhotos();
+    
     return Scaffold(
       body: SafeArea(
         child: SingleChildScrollView(
